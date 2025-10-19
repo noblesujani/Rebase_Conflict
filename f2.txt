@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello World!
+=======
+Fishes
+Hens
+Sparrow
+Sea
+India
+>>>>>>> 56ccc80 (commited)
